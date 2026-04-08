@@ -408,4 +408,9 @@ The following enhancements are planned to further improve the system:
     Implement Bluetooth/WiFi control for untethered operation
 
 ⸻
+## 🚧 Project Status
 
+- Simulation: Completed ✅  
+- Gesture Control: Completed ✅  
+- Arduino Integration: In Progress 🚧
+---
