@@ -181,6 +181,7 @@ Follow these steps to run the project from scratch.
 ⚙️ Servo Wiring (Important)
 
 Each servo has 3 wires:
+
 	•	🟤 Brown / Black → GND
 	•	🔴 Red → VCC (5V)
 	•	🟠 Orange / Yellow → Signal (Control Pin)
@@ -192,6 +193,7 @@ Each servo has 3 wires:
 A buck converter steps down higher voltage (e.g., 9V/12V) to a stable 5V required by servos.
 
 👉 This prevents:
+
 	•	Arduino resets
 	•	Servo jitter
 	•	Overheating
