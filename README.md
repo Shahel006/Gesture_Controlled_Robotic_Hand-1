@@ -251,17 +251,22 @@ A buck converter steps down higher voltage (e.g., 9V/12V) to a stable 5V require
 ⚠️ Common Mistakes
 
 ❌ Not setting buck converter to 5V
+
 👉 Can damage servos
 
 ❌ No common ground
+
 👉 Servos won’t respond
 
 ❌ Loose connections
+
 👉 Jitter / random movement
 
 ❌ Weak power supply
+
 👉 Servos stop or reset
-⸻
+
+___
 
 ⚠️ Common Issues & Solutions
 
