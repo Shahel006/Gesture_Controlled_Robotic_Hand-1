@@ -395,16 +395,17 @@ Solution:
 🔮 Next Steps
 
 The following enhancements are planned to further improve the system:
+
 	•	🔌 Real-Time Hardware Integration
-Connect gesture input directly with Arduino to achieve live control of individual servo motors
+     Connect gesture input directly with Arduino to achieve live control of individual servo motors
 	•	🖐️ Independent Finger Control
-Enable precise control of each finger based on real-time gesture angles
+    Enable precise control of each finger based on real-time gesture angles
 	•	🎯 Improved Gesture Accuracy
-Enhance tracking stability using advanced filtering and smoothing techniques
+    Enhance tracking stability using advanced filtering and smoothing techniques
 	•	🤖 Complete Physical Robotic Hand
-Develop a fully functional robotic hand with optimized mechanical design
+    Develop a fully functional robotic hand with optimized mechanical design
 	•	📡 Wireless Communication (Future Scope)
-Implement Bluetooth/WiFi control for untethered operation
+    Implement Bluetooth/WiFi control for untethered operation
 
 ⸻
 
